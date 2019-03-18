@@ -1,6 +1,6 @@
-﻿using StrategyPattern.AbstractStrategy;
+﻿using DesignPatterns.Behavioral.StrategyPattern.AbstractStrategy;
 
-namespace StrategyPattern.Strategies
+namespace DesignPatterns.Behavioral.StrategyPattern.Strategies
 {
 	public class GooglePayPaymentProvider : IPaymentProvider
 	{

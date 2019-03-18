@@ -1,9 +1,9 @@
-﻿using StrategyPattern.Strategies;
-using StrategyPattern.Context;
-using StrategyPattern.AbstractStrategy;
+﻿using DesignPatterns.Behavioral.StrategyPattern.Strategies;
+using DesignPatterns.Behavioral.StrategyPattern.Context;
+using DesignPatterns.Behavioral.StrategyPattern.AbstractStrategy;
 using System;
 
-namespace StrategyPattern
+namespace DesignPatterns.Behavioral.StrategyPattern
 {
 	class Program
 	{

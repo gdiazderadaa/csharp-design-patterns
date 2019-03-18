@@ -1,6 +1,6 @@
-﻿using StrategyPattern.AbstractStrategy;
+﻿using DesignPatterns.Behavioral.StrategyPattern.AbstractStrategy;
 
-namespace StrategyPattern.Context
+namespace DesignPatterns.Behavioral.StrategyPattern.Context
 {
 	public static class PaymentProcessor
 	{

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StrategyPattern.AbstractStrategy
+namespace DesignPatterns.Behavioral.StrategyPattern.AbstractStrategy
 {
 	public interface IPaymentProvider
 	{
